@@ -1,0 +1,2 @@
+# kawsay
+Dashboard Decisiones 
